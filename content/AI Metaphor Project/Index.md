@@ -1,7 +1,7 @@
 ---
 longform:
   format: scenes
-  title: Mind Blend Cafe
+  title: AI Metaphor Project
   workflow: Default Workflow
   sceneFolder: /
   scenes: []

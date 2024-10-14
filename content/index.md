@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Mind Blend Cafe!
 ---
+Naagma's digital thought cafe ☕️
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
