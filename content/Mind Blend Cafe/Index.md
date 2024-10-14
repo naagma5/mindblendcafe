@@ -4,8 +4,7 @@ longform:
   title: Mind Blend Cafe
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Introduction
+  scenes: []
   sceneTemplate: templates/thought.md
   ignoredFiles: []
 ---
